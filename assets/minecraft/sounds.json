@@ -1,0 +1,65 @@
+{
+    "quake.death": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/death",
+                "stream": true
+            }
+        ]
+    },
+    "quake.doublekill": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/doublekill",
+                "stream": true
+            }
+        ]
+    },
+    "quake.triplekill": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/triplekill",
+                "stream": true
+            }
+        ]
+    },
+    "quake.monsterkill": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/monsterkill",
+                "stream": true
+            }
+        ]
+    },
+    "quake.holyshit": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/holyshit",
+                "stream": true
+            }
+        ]
+    },
+    "quake.headshot": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/headshot",
+                "stream": true
+            }
+        ]
+    },
+    "quake.unstopable": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "quake/unstopable",
+                "stream": true
+            }
+        ]
+    }
+}
