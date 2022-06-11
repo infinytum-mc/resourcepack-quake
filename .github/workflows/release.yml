@@ -14,5 +14,6 @@ jobs:
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
+          allowUpdates: true
           artifacts: "pack.zip"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: main
